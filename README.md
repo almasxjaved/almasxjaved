@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey there! I'm Almas Javed 🚀</h1>
 
 <p align="center">
@@ -35,8 +34,8 @@ I'm working on a **Task Outsourcing Website** that connects people needing erran
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaWorkTask&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaWorkTask&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=almasxjaved&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almasxjaved&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -56,7 +55,7 @@ I'm working on a **Task Outsourcing Website** that connects people needing erran
 ## 👀 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlphaWorkTask&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=almasxjaved&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -64,6 +63,6 @@ I'm working on a **Task Outsourcing Website** that connects people needing erran
 <p align="center">🧡 Thanks for visiting — Happy coding! 🚀</p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JavedYusra&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JavedYusra&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavedYusra&theme=tokyonight&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=almasxjaved&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=almasxjaved&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=almasxjaved&theme=tokyonight&layout=compact&langs_count=8)
