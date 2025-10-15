@@ -52,6 +52,12 @@ I'm working on a **Task Outsourcing Website** that connects people needing erran
 
 ---
 
+## ✨ My Motivation
+
+> “Your progress as a whole is determined by what proress you make on a daily basis”
+
+---
+
 ## 👀 Visitors
 
 <p align="center">
