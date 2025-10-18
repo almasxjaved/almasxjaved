@@ -19,8 +19,8 @@ I believe in clean code, great UX, and empowering users through tech. 🚀
 Here's what I use to build awesome things:
 - 💻 HTML, CSS, JavaScript  
 - 🎨 Tailwind CSS, Bootstrap  
-- 🧠 Svelte JS, Storybook  
-- 🌱 Vue JS *(just a little, but growing!)*
+- 🧠 Svelte JS, Storybook,   
+- 🌱 Vue JS, ReactJs *(just a little, but growing!)*
 ---
 
 ## 🌟 Current Project
